@@ -1,0 +1,14 @@
+{
+  "name": "beeroclock",
+  "version": "1.0.1",
+  "description": "tells you how long until beer oclock (default 4.30pm friday)",
+  "main": "beeroclock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marksy Development Ltd.",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
+}
